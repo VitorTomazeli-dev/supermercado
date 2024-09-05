@@ -1,2 +1,2 @@
-# supermercado
+# SUPERMERCADO
 Visualg
